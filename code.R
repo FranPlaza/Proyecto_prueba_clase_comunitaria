@@ -9,3 +9,6 @@ gitcreds::gitcreds_set()
 
 # Para enlazar con github, después del primer commit
 usethis::use_github()
+
+#codigo bacán
+
