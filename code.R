@@ -12,4 +12,3 @@ credentials::set_github_pat("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") # usando
 usethis::use_github()
 
 #codigo bacán
-
